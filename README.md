@@ -7,5 +7,4 @@ This contracts help you HODL (Hold on for dear life) your tokens by putting a ti
 
 ## Python Chess [[Chess](chess)]
 This is a classic game of chess, written in Python, using Object-orientated programming principles and the Pygame library
-
-![Image Of Chess Game](https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/Screen%20Shot%202021-12-29%20at%2012.37.46%20PM.png)
+<a href="https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/Screen%20Shot%202021-12-29%20at%2012.37.46%20PM.png"><img src="http://url.to/image.png" align="left" height="300" width="300" ></a>
