@@ -6,8 +6,8 @@ This is a blockchain smart-contract that is deployed on the ethereum testnet at 
 This contracts help you HODL (Hold on for dear life) your tokens by putting a time-based lock mechanism for tokens stored at the address 
 
 ## Python Chess [[Chess](chess)]
-This is a classic game of chess, written in Python, using Object-orientated programming principles and the Pygame library
-<img src="https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/static/chess%20screenshot.png" width="200" height="200"  />
+<p>This is a classic game of chess, written in Python, using Object-orientated programming principles and the Pygame library</p>
+<img src="https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/static/chess%20screenshot.png" width="200" height="200" />
 
 
 ## Conways Game of Life
