@@ -10,6 +10,6 @@ This contracts help you HODL (Hold on for dear life) your tokens by putting a ti
 <img src="https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/static/chess%20screenshot.png" width="200" height="200" />
 
 
-## Conways Game of Life
+## Conways Game of Life [[Chess](ConwaysGameOfLife]
 <p>The classic zero-player game, written from scratch in Python using object-orientated principles, and has a GUI implemented using the Pygame library.</p>
 <img src="https://github.com/RobbyPratl/college_admissions_portfolio/blob/main/static/conwaygame_image.png" width="300" height="300" />
